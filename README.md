@@ -9,7 +9,7 @@ By [Shabbir Khan](https://github.com/shabbiryk), building Recallr and exploring 
 ## start here
 
 - [First note: an agent that can pay still needs a mandate](#2026-11-09--an-agent-that-can-pay-still-needs-a-mandate)
-- [Khan-Proxy](https://github.com/shabbiryk/Khan-Proxy) — a separate project on this account.
+- [Khan-Proxy](https://github.com/shabbiryk/Khan-Proxy) - a separate project on this account.
 - [My GitHub](https://github.com/shabbiryk)
 
 ## what belongs here
@@ -29,7 +29,7 @@ The workflow checks primary sources daily and publishes only when there is a use
 
 Sources stay linked. Third-party code and documentation belong to their authors; their licenses still apply. Corrections and grounded counterexamples are welcome through issues. Please leave private client information out of them.
 
-## 2026-11-09 — an agent that can pay still needs a mandate
+## 2026-11-09 - an agent that can pay still needs a mandate
 
 **Reading note / analysis. No new release or benchmark claimed.**
 
