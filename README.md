@@ -12,6 +12,11 @@ By [Shabbir Khan](https://github.com/shabbiryk), building Recallr and exploring 
 - [Khan-Proxy](https://github.com/shabbiryk/Khan-Proxy) - a separate project on this account.
 - [My GitHub](https://github.com/shabbiryk)
 
+## notes
+
+- [2026-11-10: same tool, different permission boundary](notes/2026-11-10-mcp-transport-permissions.md) - why a local MCP demo does not establish a shared service's access controls, with a proposed test card.
+- [2026-11-09: an agent that can pay still needs a mandate](#2026-11-09--an-agent-that-can-pay-still-needs-a-mandate) - payment plumbing, bounded authority and a proposed sandbox experiment.
+
 ## what belongs here
 
 | Track | The question |
