@@ -14,6 +14,8 @@ By [Shabbir Khan](https://github.com/shabbiryk), building Recallr and exploring 
 
 ## notes
 
+- [2026-11-15: one noisy agent should not lock out the whole desk](notes/2026-11-15-shared-agents-separate-users.md) - shared operators, user isolation and a proposed buyer acceptance test.
+
 - [2026-11-14: skill manifests are a control surface](notes/2026-11-14-skill-manifests-need-boundaries.md) - discovery metadata, access policy and a proposed two-user test card.
 
 - [2026-11-11: smaller tool output, same decision?](notes/2026-11-11-compact-output-keep-evidence.md) - compaction, decision-critical evidence and a proposed application acceptance test.
