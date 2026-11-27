@@ -14,7 +14,9 @@ By [Shabbir Khan](https://github.com/shabbiryk), building Recallr and exploring 
 
 ## notes
 
-- [2026-11-26: usage metrics are a control input, not a receipt](notes/2026-11-26-usage-events-need-reconciliation.md) - FastMCP usage metrics, experimental events and a reconciliation test for duplicate or late delivery.
+- [2026-11-27: can the collateral pay a Saturday cash call?](notes/2026-11-27-weekend-collateral.md) - a tested cutoff and double-counting check for tokenised collateral.
+
+- [2026-11-26: usage metrics are a control input, not a receipt](notes/2026-11-26-usage-events-need-reconciliation.md/2026-11-26-usage-events-need-reconciliation.md) - FastMCP usage metrics, experimental events and a reconciliation test for duplicate or late delivery.
 
 - [2026-11-24: a citation check is only as fresh as its last complete page](notes/2026-11-24-citation-checkpoints.md) - a tested citation-update fixture for interrupted pagination.
 
